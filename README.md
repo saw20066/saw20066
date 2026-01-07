@@ -13,6 +13,7 @@ I enjoy turning business requirements into functional systems, focusing on authe
 I mostly work independently and follow Agile practices, managing my own backlog, iterations, and improvements. I treat each project as a real product, not just an academic task.
 
 🎓 Education
+
 Professional bachelor's degree in informatics 
 Klaipėdos valstybinė kolegija (KVK) — 2025–2028
 
